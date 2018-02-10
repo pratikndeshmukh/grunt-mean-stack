@@ -1,0 +1,6 @@
+#files to Ignore
+logs
+*.log
+coverage
+.grunt
+node_modules
